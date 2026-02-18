@@ -101,4 +101,5 @@ InitTestScene*.unity*
 # LUCAS MADE THIS BELOW
 
 # folders with assets 
-/Asset_Store
+/[Aa]ssets/Asset_Store/
+/[Aa]ssets/Asset_Store.meta
